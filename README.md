@@ -8,7 +8,7 @@ Install dependencies<br>
 Run webpack develop mode (HMR)<br>
 `npm start`
 
-###Features
+### Features
 - Webpack 4
 - React
 - ES6
