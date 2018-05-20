@@ -7,7 +7,6 @@ Install dependencies<br>
 
 Run webpack develop mode (HMR)<br>
 `npm start`
-<br>
 
 ###Features
 - Webpack 4
